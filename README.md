@@ -4,7 +4,7 @@
        Pamēģināšu izveidot programmu, kas spēs izvadīt ievadīto figūru no simboliem '*, #, $, %'.
        
 ## Galvenās funkcijas
-       - Pieprasa ievadīt datus;
+       - Pieprasa ievadīt datus (figūras nosaukumu un parametrus);
        - Apstrādā datus;
        - Izvadu simbolus pēc dotajiem parametriem noteiktās pozīcijās un izmēros.
        
