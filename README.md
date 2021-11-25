@@ -15,3 +15,8 @@
         - Visual studio
 
 ## Izmantotie avoti
+
+
+
+## Izveidotais projekts
+       -https://replit.com/@DP2ENovosads/Novembramazaisprojekts#main.cpp
